@@ -116,6 +116,7 @@ ESRA ÖZCAN - esraozcn_9@outlook.com
 
 [LinkedIn Profiliniz](https://www.linkedin.com/in/esra-özcan-38328b21a/)
 
+Youtube Linkim: https://www.youtube.com/watch?v=q-wYI96_TGU
 ---
 
 Bu README dosyası, projenizin temel bilgilerini içermektedir. Projenize özgü detayları eklemeyi ve gerekli gördüğünüz değişiklikleri yapmayı unutmayın. Başarılar dilerim!
