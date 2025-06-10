@@ -113,7 +113,9 @@ Bu proje MIT Lisansı altında lisanslanmıştır
 ESRA ÖZCAN - esraozcn_9@outlook.com
 
 [GitHub Profiliniz](https://github.com/esraozcn)
+
 [LinkedIn Profiliniz](https://www.linkedin.com/in/esra-özcan-38328b21a/)
+
 ---
 
 Bu README dosyası, projenizin temel bilgilerini içermektedir. Projenize özgü detayları eklemeyi ve gerekli gördüğünüz değişiklikleri yapmayı unutmayın. Başarılar dilerim!
